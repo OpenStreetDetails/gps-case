@@ -11,23 +11,23 @@
   <tr>
     <td>
       <b>Base</b><br />
-      <img width="130" src="https://github.com/OpenStreetDetails/gps-case/blob/master/doc/case_base.png">
+      <img width="130" src="https://raw.githubusercontent.com/OpenStreetDetails/gps-case/master/doc/case_base.png">
     </td>
     <td>
       <b>Back</b><br />
-      <img width="130" src="https://github.com/OpenStreetDetails/gps-case/blob/master/doc/case_back.png">
+      <img width="130" src="https://raw.githubusercontent.com/OpenStreetDetails/gps-case/master/doc/case_back.png">
     </td>
     <td>
       <b>Lid</b><br />
-      <img width="130" src="https://github.com/OpenStreetDetails/gps-case/blob/master/doc/case_lid.png">
+      <img width="130" src="https://raw.githubusercontent.com/OpenStreetDetails/gps-case/master/doc/case_lid.png">
     </td>
     <td>
       <b>Chip Support</b><br />
-      <img width="130" src="https://github.com/OpenStreetDetails/gps-case/blob/master/doc/chip_support.png">
+      <img width="130" src="https://raw.githubusercontent.com/OpenStreetDetails/gps-case/master/doc/chip_support.png">
     </td>
     <td>
       <b>Jumper Grip</b><br />
-      <img width="130" src="https://github.com/OpenStreetDetails/gps-case/blob/master/doc/jumper_grip.png">
+      <img width="130" src="https://raw.githubusercontent.com/OpenStreetDetails/gps-case/master/doc/jumper_grip.png">
     </td>
   </tr>
 </table>
@@ -98,7 +98,6 @@
 ### Assembly
 
 - Break off and/or sand off the thin anti-warp layer from `base` and `lid`
-
 - Rotate the breadboard so there are two "feet" on the left and three on the bottom
 - Solder the pins that came with the chip to the chip
 - Place `chip support` under the chip's other side
